@@ -1,0 +1,1283 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/107.ts
+#EXTINF:-1,RTP 2
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/110.ts
+#EXTINF:-1,SIC
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/119.ts
+#EXTINF:-1,TVI
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/171.ts
+#EXTINF:-1,RTP 1 (ALT)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/485.ts
+#EXTINF:-1,SIC (ALT)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/76.ts
+#EXTINF:-1,TVI (ALT)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/482.ts
+#EXTINF:-1,RTP 1 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/731.ts
+#EXTINF:-1,RTP 2 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/730.ts
+#EXTINF:-1,SIC FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/729.ts
+#EXTINF:-1,TVI FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/728.ts
+#EXTINF:-1,RTP 1 (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/106.ts
+#EXTINF:-1,RTP 2 (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/109.ts
+#EXTINF:-1,SIC (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/118.ts
+#EXTINF:-1,TVI (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/170.ts
+#EXTINF:-1,RTP 1 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/108.ts
+#EXTINF:-1,SIC FULL HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/121.ts
+#EXTINF:-1,SIC Notícias
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/124.ts
+#EXTINF:-1,RTP 3
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/111.ts
+#EXTINF:-1,TVI 24
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/172.ts
+#EXTINF:-1,CMTV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/52.ts
+#EXTINF:-1,SIC Radical
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/125.ts
+#EXTINF:-1,SIC Mulher
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/123.ts
+#EXTINF:-1,TVI Ficção
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/174.ts
+#EXTINF:-1,RTP Memória
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/115.ts
+#EXTINF:-1,TVI Reality
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/176.ts
+#EXTINF:-1,TVI Reality: Mosaico
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/175.ts
+#EXTINF:-1,TVI Reality: Câmara Exclusiva
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/173.ts
+#EXTINF:-1,SIC Caras
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/120.ts
+#EXTINF:-1,Canal Q
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/47.ts
+#EXTINF:-1,Económico TV HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/7.ts
+#EXTINF:-1,RTP Madeira
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/114.ts
+#EXTINF:-1,RTP Açores
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/112.ts
+#EXTINF:-1,RTP África
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/113.ts
+#EXTINF:-1,Porto Canal
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/102.ts
+#EXTINF:-1,RTP Internacional
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/466.ts
+#EXTINF:-1,TVI Internacional
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/447.ts
+#EXTINF:-1,CNN
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/53.ts
+#EXTINF:-1,Euronews
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/59.ts
+#EXTINF:-1,Bloomberg
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/36.ts
+#EXTINF:-1,Sky News
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/126.ts
+#EXTINF:-1,CNBC
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/8.ts
+#EXTINF:-1,FOX News
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/73.ts
+#EXTINF:-1,TVE 24h
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/18.ts
+#EXTINF:-1,France 24 (Inglês)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/74.ts
+#EXTINF:-1,Record News
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/104.ts
+#EXTINF:-1,Sport TV 1
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/128.ts
+#EXTINF:-1,Sport TV 1 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/129.ts
+#EXTINF:-1,Sport TV 1 HD (ALT)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/481.ts
+#EXTINF:-1,Sport TV 1 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/139.ts
+#EXTINF:-1,Sport TV 1 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/140.ts
+#EXTINF:-1,Sport TV 2
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/130.ts
+#EXTINF:-1,Sport TV 2 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/131.ts
+#EXTINF:-1,Sport TV 2 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/141.ts
+#EXTINF:-1,Sport TV 2 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/142.ts
+#EXTINF:-1,Sport TV 3
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/132.ts
+#EXTINF:-1,Sport TV 3 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/144.ts
+#EXTINF:-1,Sport TV 3 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/143.ts
+#EXTINF:-1,Sport TV 3 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/145.ts
+#EXTINF:-1,Sport TV 4
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/133.ts
+#EXTINF:-1,Sport TV 4 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/134.ts
+#EXTINF:-1,Sport TV 4 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/146.ts
+#EXTINF:-1,Sport TV 4 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/147.ts
+#EXTINF:-1,Sport TV 5
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/135.ts
+#EXTINF:-1,Sport TV 5 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/149.ts
+#EXTINF:-1,Sport TV 5 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/148.ts
+#EXTINF:-1,Sport TV 5 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/150.ts
+#EXTINF:-1,BTV 1
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/33.ts
+#EXTINF:-1,BTV 1 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/42.ts
+#EXTINF:-1,BTV 1 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/34.ts
+#EXTINF:-1,BTV 1 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/38.ts
+#EXTINF:-1,BTV 2
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/39.ts
+#EXTINF:-1,BTV 2 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/40.ts
+#EXTINF:-1,BTV 2 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/35.ts
+#EXTINF:-1,BTV 2 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/41.ts
+#EXTINF:-1,Sporting TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/137.ts
+#EXTINF:-1,Sporting TV HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/136.ts
+#EXTINF:-1,Sporting TV HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/138.ts
+#EXTINF:-1,A Bola TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/37.ts
+#EXTINF:-1,Real Madrid TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/103.ts
+#EXTINF:-1,Chelsea TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/50.ts
+#EXTINF:-1,Eurosport 1
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/60.ts
+#EXTINF:-1,Eurosport 1 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/62.ts
+#EXTINF:-1,Eurosport 2
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/61.ts
+#EXTINF:-1,Eurosport 2 Xtra HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/726.ts
+#EXTINF:-1,Eurosport News
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/63.ts
+#EXTINF:-1,PFC
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/99.ts
+#EXTINF:-1,Motorvision HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/87.ts
+#EXTINF:-1,Motors TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/86.ts
+#EXTINF:-1,Fight Network HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/64.ts
+#EXTINF:-1,Outdoor Channel HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/95.ts
+#EXTINF:-1,Fuel TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/75.ts
+#EXTINF:-1,Disney Channel
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/56.ts
+#EXTINF:-1,Disney Junior
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/57.ts
+#EXTINF:-1,Disney Junior (ALT)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/725.ts
+#EXTINF:-1,Nickelodeon
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/93.ts
+#EXTINF:-1,Cartoon Network
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/48.ts
+#EXTINF:-1,Canal Panda
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/96.ts
+#EXTINF:-1,Biggs
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/97.ts
+#EXTINF:-1,SIC K
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/122.ts
+#EXTINF:-1,Baby TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/31.ts
+#EXTINF:-1,Baby First
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/30.ts
+#EXTINF:-1,JimJam
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/82.ts
+#EXTINF:-1,TVCine 1 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/157.ts
+#EXTINF:-1,TVCine 1 HD (ALT)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/13.ts
+#EXTINF:-1,TVCine 1 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/156.ts
+#EXTINF:-1,TVCine 1 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/16.ts
+#EXTINF:-1,TVCine 2 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/159.ts
+#EXTINF:-1,TVCine 2 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/158.ts
+#EXTINF:-1,TVCine 2 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/12.ts
+#EXTINF:-1,TVCine 3 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/161.ts
+#EXTINF:-1,TVCine 3 HD (ALT)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/11.ts
+#EXTINF:-1,TVCine 3 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/160.ts
+#EXTINF:-1,TVCine 3 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/17.ts
+#EXTINF:-1,TVCine 4 HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/163.ts
+#EXTINF:-1,TVCine 4 HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/162.ts
+#EXTINF:-1,TVCine 4 FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/15.ts
+#EXTINF:-1,TVSéries HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/169.ts
+#EXTINF:-1,TVSéries HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/168.ts
+#EXTINF:-1,TVSéries FHD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/9.ts
+#EXTINF:-1,Hollywood
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/77.ts
+#EXTINF:-1,Hollywood HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/78.ts
+#EXTINF:-1,Cinemundo
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/51.ts
+#EXTINF:-1,FOX Movies
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/71.ts
+#EXTINF:-1,FOX Movies HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/72.ts
+#EXTINF:-1,FOX HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/69.ts
+#EXTINF:-1,FOX Life HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/70.ts
+#EXTINF:-1,FOX Crime HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/68.ts
+#EXTINF:-1,FOX Comedy
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/66.ts
+#EXTINF:-1,FOX Comedy HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/67.ts
+#EXTINF:-1,AXN HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/27.ts
+#EXTINF:-1,AXN HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/26.ts
+#EXTINF:-1,AXN White HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/29.ts
+#EXTINF:-1,AXN White HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/28.ts
+#EXTINF:-1,AXN Black HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/25.ts
+#EXTINF:-1,AXN Black HD (LBR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/24.ts
+#EXTINF:-1,SyFy
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/151.ts
+#EXTINF:-1,SyFy HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/127.ts
+#EXTINF:-1,MOV HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/88.ts
+#EXTINF:-1,AMC
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/23.ts
+#EXTINF:-1,24 Kitchen HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/20.ts
+#EXTINF:-1,A&E
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/21.ts
+#EXTINF:-1,TLC
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/152.ts
+#EXTINF:-1,E! Entertainment
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/58.ts
+#EXTINF:-1,Travel Channel HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/155.ts
+#EXTINF:-1,Fashion TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/10.ts
+#EXTINF:-1,Food Network HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/65.ts
+#EXTINF:-1,Fine Living Network HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/19.ts
+#EXTINF:-1,CBS Reality
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/49.ts
+#EXTINF:-1,BBC Entertainment
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/32.ts
+#EXTINF:-1,Globo
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/727.ts
+#EXTINF:-1,Globo Portugal
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/164.ts
+#EXTINF:-1,Globo Premium
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/165.ts
+#EXTINF:-1,TV Record
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/166.ts
+#EXTINF:-1,TV Record HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/167.ts
+#EXTINF:-1,Band
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/117.ts
+#EXTINF:-1,SBT
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/116.ts
+#EXTINF:-1,RedeTV!
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/105.ts
+#EXTINF:-1,TVEi
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/6.ts
+#EXTINF:-1,MTV Portugal
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/89.ts
+#EXTINF:-1,MTV Portugal HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/1.ts
+#EXTINF:-1,VH1
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/178.ts
+#EXTINF:-1,VH1 Classic
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/5.ts
+#EXTINF:-1,MCM Top
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/4.ts
+#EXTINF:-1,MCM Pop
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/83.ts
+#EXTINF:-1,Trace Urban
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/154.ts
+#EXTINF:-1,Trace Urban HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/3.ts
+#EXTINF:-1,iConcerts HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/81.ts
+#EXTINF:-1,C Music TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/43.ts
+#EXTINF:-1,Mezzo
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/85.ts
+#EXTINF:-1,Afro Music Channel
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/22.ts
+#EXTINF:-1,Discovery Channel
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/54.ts
+#EXTINF:-1,Discovery Showcase HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/55.ts
+#EXTINF:-1,National Geographic Channel HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/92.ts
+#EXTINF:-1,Nat Geo Wild
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/90.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/91.ts
+#EXTINF:-1,História
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/46.ts
+#EXTINF:-1,Odisseia
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/94.ts
+#EXTINF:-1,Canção Nova
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/2.ts
+#EXTINF:-1,DOGTV HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/480.ts
+#EXTINF:-1,MCS LifeStyle
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/84.ts
+#EXTINF:-1,Toros TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/153.ts
+#EXTINF:-1,Caçavision
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/45.ts
+#EXTINF:-1,Caça e Pesca
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/44.ts
+#EXTINF:-1,Playboy TV
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/100.ts
+#EXTINF:-1,Playboy TV HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/101.ts
+#EXTINF:-1,HOT
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/79.ts
+#EXTINF:-1,HOT HD
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/80.ts
+#EXTINF:-1,Penthouse HD1
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/98.ts
+#EXTINF:-1,Venus
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/177.ts
+#EXTINF:-1,RADIOS (PT)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/465.ts
+#EXTINF:-1,Antena 1
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/448.ts
+#EXTINF:-1,Antena 3
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/452.ts
+#EXTINF:-1,Rádio Comercial
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/455.ts
+#EXTINF:-1,Nova Era
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/923.ts
+#EXTINF:-1,Mega HITS
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/453.ts
+#EXTINF:-1,Hiper Fm
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/456.ts
+#EXTINF:-1,RFM
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/454.ts
+#EXTINF:-1,80s RFM
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/457.ts
+#EXTINF:-1,M80
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/458.ts
+#EXTINF:-1,Rádio Renascença
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/451.ts
+#EXTINF:-1,TSF
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/450.ts
+#EXTINF:-1,RDP Internacional
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/449.ts
+#EXTINF:-1,TV FRANÇESA
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/475.ts
+#EXTINF:-1,TF1 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/878.ts
+#EXTINF:-1,France 2 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/892.ts
+#EXTINF:-1,France 3 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/891.ts
+#EXTINF:-1,France 4 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/890.ts
+#EXTINF:-1,France 5 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/889.ts
+#EXTINF:-1,France Ô (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/888.ts
+#EXTINF:-1,13ème RUE (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/922.ts
+#EXTINF:-1,Action (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/921.ts
+#EXTINF:-1,Animaux (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/920.ts
+#EXTINF:-1,beIN SPORTS 1 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/918.ts
+#EXTINF:-1,beIN SPORTS 2 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/917.ts
+#EXTINF:-1,beIN SPORTS 3 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/916.ts
+#EXTINF:-1,Eurosport 1 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/893.ts
+#EXTINF:-1,INFOSPORT+ (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/887.ts
+#EXTINF:-1,Arte (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/919.ts
+#EXTINF:-1,Boomerang (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/915.ts
+#EXTINF:-1,Canal+ (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/914.ts
+#EXTINF:-1,Canal+ Cinéma (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/913.ts
+#EXTINF:-1,Canal+ Décalé (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/911.ts
+#EXTINF:-1,Canal+ Family (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/912.ts
+#EXTINF:-1,Canal J (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/910.ts
+#EXTINF:-1,Cine   Classic (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/907.ts
+#EXTINF:-1,Cine   Club (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/906.ts
+#EXTINF:-1,Cine   Emotion (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/905.ts
+#EXTINF:-1,Cine   Famiz (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/904.ts
+#EXTINF:-1,Cine   Frisson (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/903.ts
+#EXTINF:-1,Cine   Premier (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/902.ts
+#EXTINF:-1,Comedie   (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/901.ts
+#EXTINF:-1,Comedy Classic (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/900.ts
+#EXTINF:-1,D17 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/899.ts
+#EXTINF:-1,D8 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/898.ts
+#EXTINF:-1,Discovery (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/897.ts
+#EXTINF:-1,Discovery Science (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/896.ts
+#EXTINF:-1,Disney Channel (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/895.ts
+#EXTINF:-1,Disney Junior (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/894.ts
+#EXTINF:-1,M6 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/886.ts
+#EXTINF:-1,M6 Music (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/885.ts
+#EXTINF:-1,MA Chaine Sport (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/884.ts
+#EXTINF:-1,Nat Geo Wild (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/883.ts
+#EXTINF:-1,National Geogrphic (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/882.ts
+#EXTINF:-1,Planete   (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/881.ts
+#EXTINF:-1,RTL9 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/880.ts
+#EXTINF:-1,Teletoon (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/879.ts
+#EXTINF:-1,Ushuaia TV HD (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/876.ts
+#EXTINF:-1,W9 (FR)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/877.ts
+#EXTINF:-1,TV ESPANHOLA
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/477.ts
+#EXTINF:-1,24 HORAS (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/797.ts
+#EXTINF:-1,40 TV (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/839.ts
+#EXTINF:-1,Ajazeera (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/798.ts
+#EXTINF:-1,AMC (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/799.ts
+#EXTINF:-1,Antena 3 (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/800.ts
+#EXTINF:-1,Aragon TV (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/801.ts
+#EXTINF:-1,AXN (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/802.ts
+#EXTINF:-1,AXN White (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/803.ts
+#EXTINF:-1,Baby TV (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/804.ts
+#EXTINF:-1,Barca TV (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/805.ts
+#EXTINF:-1,Bein Sport (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/806.ts
+#EXTINF:-1,Boing (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/807.ts
+#EXTINF:-1,C&I (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/819.ts
+#EXTINF:-1,Calle 13 (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/821.ts
+#EXTINF:-1,Canal   Accion (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/808.ts
+#EXTINF:-1,Canal   Comedia (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/809.ts
+#EXTINF:-1,Canal   Deportes (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/810.ts
+#EXTINF:-1,Canal   Seriesxtra (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/817.ts
+#EXTINF:-1,Canal   Estrenos (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/811.ts
+#EXTINF:-1,Canal   Ftbol (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/812.ts
+#EXTINF:-1,Canal   Golf (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/813.ts
+#EXTINF:-1,Canal   Liga (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/814.ts
+#EXTINF:-1,Canal   Portada (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/815.ts
+#EXTINF:-1,Canal   Series (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/816.ts
+#EXTINF:-1,Canal   Xtra (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/818.ts
+#EXTINF:-1,Canal Cocina (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/822.ts
+#EXTINF:-1,Canal Decasa (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/823.ts
+#EXTINF:-1,Canal Estrellas (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/820.ts
+#EXTINF:-1,Canal Extremadura (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/824.ts
+#EXTINF:-1,Canal Odisea (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/825.ts
+#EXTINF:-1,Canal Panda (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/861.ts
+#EXTINF:-1,Canal Sur Andalucia (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/826.ts
+#EXTINF:-1,Caza Y Pesca (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/827.ts
+#EXTINF:-1,Comedy Central (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/828.ts
+#EXTINF:-1,Cosmo (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/829.ts
+#EXTINF:-1,Dcine (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/830.ts
+#EXTINF:-1,Deportes 2 (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/831.ts
+#EXTINF:-1,Discovery Channel (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/832.ts
+#EXTINF:-1,Disney Channel (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/833.ts
+#EXTINF:-1,Disney JR (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/834.ts
+#EXTINF:-1,Disney XD (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/835.ts
+#EXTINF:-1,Divinity (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/836.ts
+#EXTINF:-1,EHS (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/837.ts
+#EXTINF:-1,Energy (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/838.ts
+#EXTINF:-1,Estrellas (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/840.ts
+#EXTINF:-1,Eurosport 1 (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/841.ts
+#EXTINF:-1,Eurosport 2 (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/842.ts
+#EXTINF:-1,FOX Life (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/844.ts
+#EXTINF:-1,France 24 (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/845.ts
+#EXTINF:-1,Historia (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/846.ts
+#EXTINF:-1,Hollywood (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/847.ts
+#EXTINF:-1,Iberalia TV (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/848.ts
+#EXTINF:-1,LA 1 (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/849.ts
+#EXTINF:-1,LA 2 (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/850.ts
+#EXTINF:-1,La Sexta (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/851.ts
+#EXTINF:-1,Liga 2 (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/852.ts
+#EXTINF:-1,Moto GP (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/853.ts
+#EXTINF:-1,Movistar F1 (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/854.ts
+#EXTINF:-1,MTV Espanha (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/855.ts
+#EXTINF:-1,Nation Geo Wild (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/856.ts
+#EXTINF:-1,Nation Geograph Channel (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/857.ts
+#EXTINF:-1,Neox (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/858.ts
+#EXTINF:-1,NHK World (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/859.ts
+#EXTINF:-1,Nova (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/860.ts
+#EXTINF:-1,Paramount (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/862.ts
+#EXTINF:-1,Parlamento (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/863.ts
+#EXTINF:-1,Playboy TV (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/864.ts
+#EXTINF:-1,Quatro (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/865.ts
+#EXTINF:-1,Real Madrid TV (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/866.ts
+#EXTINF:-1,RT (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/867.ts
+#EXTINF:-1,SyFy (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/868.ts
+#EXTINF:-1,TCM (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/869.ts
+#EXTINF:-1,Telecinco (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/870.ts
+#EXTINF:-1,Teledeporte (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/871.ts
+#EXTINF:-1,Telesur (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/872.ts
+#EXTINF:-1,TNT (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/873.ts
+#EXTINF:-1,Toros TV (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/874.ts
+#EXTINF:-1,Viajar (ES)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/875.ts
+#EXTINF:-1,TV ALEMÃ
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/476.ts
+#EXTINF:-1,4 Plus HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/732.ts
+#EXTINF:-1,ANIXE HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/733.ts
+#EXTINF:-1,ARD HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/734.ts
+#EXTINF:-1,Arte (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/735.ts
+#EXTINF:-1,Blizz HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/736.ts
+#EXTINF:-1,BR (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/737.ts
+#EXTINF:-1,EuroSport (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/738.ts
+#EXTINF:-1,FOX HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/739.ts
+#EXTINF:-1,Kabel 1 (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/740.ts
+#EXTINF:-1,Kika (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/741.ts
+#EXTINF:-1,National Geographic HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/743.ts
+#EXTINF:-1,Ndr HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/744.ts
+#EXTINF:-1,ORF 2 (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/745.ts
+#EXTINF:-1,ORF Eins (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/746.ts
+#EXTINF:-1,Phoenix (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/747.ts
+#EXTINF:-1,Pro 7 (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/748.ts
+#EXTINF:-1,PRO7 MAXX (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/749.ts
+#EXTINF:-1,RTL I (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/751.ts
+#EXTINF:-1,RTL II (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/752.ts
+#EXTINF:-1,RTL Living (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/753.ts
+#EXTINF:-1,RTL Crime (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/754.ts
+#EXTINF:-1,Sky 13 Street HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/756.ts
+#EXTINF:-1,Sky Action HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/757.ts
+#EXTINF:-1,Sky Atlantic (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/758.ts
+#EXTINF:-1,Sky BundesLiga 1 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/759.ts
+#EXTINF:-1,Sky Cinema (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/760.ts
+#EXTINF:-1,Sky Cinema HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/761.ts
+#EXTINF:-1,Sky Cinema Plus 1 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/762.ts
+#EXTINF:-1,Sky Comedy (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/763.ts
+#EXTINF:-1,Sky DMAX (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/764.ts
+#EXTINF:-1,Sky Emotion (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/765.ts
+#EXTINF:-1,Sky Fox HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/766.ts
+#EXTINF:-1,Sky History Channel (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/767.ts
+#EXTINF:-1,Sky Hits (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/768.ts
+#EXTINF:-1,Sky Krimi (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/769.ts
+#EXTINF:-1,Sky MGM HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/770.ts
+#EXTINF:-1,Sky Select 1 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/771.ts
+#EXTINF:-1,Sky Select 2 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/772.ts
+#EXTINF:-1,Sky Select 3 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/773.ts
+#EXTINF:-1,Sky Select 4 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/774.ts
+#EXTINF:-1,Sky Select 5 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/775.ts
+#EXTINF:-1,Sky Select 6 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/776.ts
+#EXTINF:-1,Sky Select 7 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/777.ts
+#EXTINF:-1,Sky Select 8 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/778.ts
+#EXTINF:-1,Sky Select 9 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/779.ts
+#EXTINF:-1,Sky Sport 1 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/780.ts
+#EXTINF:-1,Sky Sport 1 US HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/781.ts
+#EXTINF:-1,Sky Sport 2 HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/782.ts
+#EXTINF:-1,SRF1 (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/787.ts
+#EXTINF:-1,SRF2 (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/788.ts
+#EXTINF:-1,Super RTL (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/789.ts
+#EXTINF:-1,SWR HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/790.ts
+#EXTINF:-1,SYFY (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/791.ts
+#EXTINF:-1,VOX (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/792.ts
+#EXTINF:-1,Wdr HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/793.ts
+#EXTINF:-1,ZDF (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/794.ts
+#EXTINF:-1,ZDF Info HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/795.ts
+#EXTINF:-1,ZDF Neo HD (DE)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/796.ts
+#EXTINF:-1,TV INGLESA
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/478.ts
+#EXTINF:-1,VEVO 1 (UK)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/461.ts
+#EXTINF:-1,VEVO 2 (UK)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/460.ts
+#EXTINF:-1,VEVO 3 (UK)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/459.ts
+#EXTINF:-1,TV ITALIANA
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/479.ts
+#EXTINF:-1,MOVIES (VOD)
+http://iptvportugal.selfip.com:8000/live/linhadeteste/PuXwj3vz9A/364.ts
+#EXTINF:-1,12 Rounds 3: Lockdown (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/486.mkv
+#EXTINF:-1,300 O Início de Um Império (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/503.mkv
+#EXTINF:-1,45 Anos (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/585.mkv
+#EXTINF:-1,47 Ronin - A Grande Batalha Samurai (2013)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/643.mkv
+#EXTINF:-1,99 Casas (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/586.mkv
+#EXTINF:-1,A 5ª Vaga (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/614.mkv
+#EXTINF:-1,Slow West (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/487.mkv
+#EXTINF:-1,A Febre do Mississípi (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/504.mkv
+#EXTINF:-1,A Floresta (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/587.mkv
+#EXTINF:-1,A Força da Verdade (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/629.mkv
+#EXTINF:-1,A Juventude (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/505.mkv
+#EXTINF:-1,Maldito Feliz Natal (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/488.mkv
+#EXTINF:-1,A Modista (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/630.mkv
+#EXTINF:-1,A Perfect Day (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/712.mkv
+#EXTINF:-1,A Queda de Wall Street (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/631.mkv
+#EXTINF:-1,A Rapariga Dinamarquesa (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/516.mkv
+#EXTINF:-1,A Senhora da Furgoneta (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/632.mkv
+#EXTINF:-1,A Visita (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/517.mkv
+#EXTINF:-1,Alex of Venice (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/615.mkv
+#EXTINF:-1,Alta Golpada (2011)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/537.mkv
+#EXTINF:-1,Alvin e os Esquilos A Grande Aventura (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/538.mkv
+#EXTINF:-1,American Sniper (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/708.mkv
+#EXTINF:-1,Amor Acidental (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/489.mkv
+#EXTINF:-1,Amour sur place ou a emporter (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/506.mkv
+#EXTINF:-1,Anesthesia (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/501.mkv
+#EXTINF:-1,Anguish (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/490.mkv
+#EXTINF:-1,Anjos e Sombras (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/588.mkv
+#EXTINF:-1,Anomalisa (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/539.mkv
+#EXTINF:-1,Another World (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/589.mkv
+#EXTINF:-1,Ant-Man (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/650.mkv
+#EXTINF:-1,Antigang (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/518.mkv
+#EXTINF:-1,Ao Som da Vida (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/590.mkv
+#EXTINF:-1,As Armas de Jane (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/507.mkv
+#EXTINF:-1,As Cinquenta Sombras de Grey (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/651.mkv
+#EXTINF:-1,Suffragette (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/616.mkv
+#EXTINF:-1,Ascensão de Júpiter (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/652.mkv
+#EXTINF:-1,Avengers Age of Ultron (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/653.mkv
+#EXTINF:-1,Avouterie (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/540.mkv
+#EXTINF:-1,Awaken (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/654.mkv
+#EXTINF:-1,Backtrack (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/591.mkv
+#EXTINF:-1,Band of Robbers (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/541.mkv
+#EXTINF:-1,Beyond the Mask (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/542.mkv
+#EXTINF:-1,Blackbird (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/470.mkv
+#EXTINF:-1,Bridge of Spies (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/655.mkv
+#EXTINF:-1,Brooklyn (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/491.mkv
+#EXTINF:-1,Burnt (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/713.mkv
+#EXTINF:-1,Bus 657 (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/508.mkv
+#EXTINF:-1,By the Gun (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/543.mkv
+#EXTINF:-1,Cabin Fever (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/634.mkv
+#EXTINF:-1,Captive (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/519.mkv
+#EXTINF:-1,Carol (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/714.mkv
+#EXTINF:-1,Cavaleiro de Copas (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/544.mkv
+#EXTINF:-1,Christina Noble (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/545.mkv
+#EXTINF:-1,Close Range (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/656.mkv
+#EXTINF:-1,Condemned (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/492.mkv
+#EXTINF:-1,Contracted Phase II (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/493.mkv
+#EXTINF:-1,Cop Car (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/657.mkv
+#EXTINF:-1,Creed O Legado de Rocky (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/592.mkv
+#EXTINF:-1,Criminal Activities (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/546.mkv
+#EXTINF:-1,Crimson Peak (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/658.mkv
+#EXTINF:-1,Curse of the Witching Tree (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/547.mkv
+#EXTINF:-1,Dark Places (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/498.mkv
+#EXTINF:-1,Deathgasm (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/659.mkv
+#EXTINF:-1,Debug (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/593.mkv
+#EXTINF:-1,Dementia (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/594.mkv
+#EXTINF:-1,Descarrilada (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/494.mkv
+#EXTINF:-1,Descendants (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/660.mkv
+#EXTINF:-1,Diablo (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/520.mkv
+#EXTINF:-1,Digging for Fire (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/617.mkv
+#EXTINF:-1,Em Terra Estranha (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/509.mkv
+#EXTINF:-1,Eu o Earl e a Tal Miúda (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/521.mkv
+#EXTINF:-1,Everest (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/495.mkv
+#EXTINF:-1,Ex Machina (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/661.mkv
+#EXTINF:-1,Experimenter (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/646.mkv
+#EXTINF:-1,Exterminador Genisys (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/662.mkv
+#EXTINF:-1,Extinction (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/663.mkv
+#EXTINF:-1,Extraction (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/664.mkv
+#EXTINF:-1,Extraction - Ameaça Global (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/595.mkv
+#EXTINF:-1,Fantastic Four (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/665.mkv
+#EXTINF:-1,Fathers and Daughters (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/548.mkv
+#EXTINF:-1,Focus (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/666.mkv
+#EXTINF:-1,Forsaken (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/596.mkv
+#EXTINF:-1,Fourth Man Out (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/618.mkv
+#EXTINF:-1,Frank and Cindy (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/468.mkv
+#EXTINF:-1,Freaks of Nature (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/549.mkv
+#EXTINF:-1,Get a Job (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/550.mkv
+#EXTINF:-1,Get Hard (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/667.mkv
+#EXTINF:-1,Good Kill (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/709.mkv
+#EXTINF:-1,Goosebumps Arrepios (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/551.mkv
+#EXTINF:-1,Grandma (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/552.mkv
+#EXTINF:-1,Guia do Escuteiro Para o Apocalipse Zombie (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/522.mkv
+#EXTINF:-1,Harbinger Down (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/553.mkv
+#EXTINF:-1,Hitman Agent 47 (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/668.mkv
+#EXTINF:-1,Hollow Creek (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/635.mkv
+#EXTINF:-1,Homem de Aço (2013)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/554.mkv
+#EXTINF:-1,Homem Irracional (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/510.mkv
+#EXTINF:-1,Hot Pursuit (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/669.mkv
+#EXTINF:-1,Hush (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/469.mkv
+#EXTINF:-1,Hyena (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/511.mkv
+#EXTINF:-1,Hyena Road (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/715.mkv
+#EXTINF:-1,In The Heart of the Sea (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/670.mkv
+#EXTINF:-1,Infini (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/671.mkv
+#EXTINF:-1,Insurgente (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/496.mkv
+#EXTINF:-1,Jack Ryan Agente Sombra (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/555.mkv
+#EXTINF:-1,James White (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/471.mkv
+#EXTINF:-1,Jarhead 3 The Siege (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/716.mkv
+#EXTINF:-1,Jem e as Hologramas (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/619.mkv
+#EXTINF:-1,Jenny s Wedding (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/556.mkv
+#EXTINF:-1,Jeruzalem (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/557.mkv
+#EXTINF:-1,Joy (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/558.mkv
+#EXTINF:-1,Junto ao Mar (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/636.mkv
+#EXTINF:-1,Juntos ao Luar (2010)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/559.mkv
+#EXTINF:-1,Kingsman The Secret Service (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/710.mkv
+#EXTINF:-1,Knock Knock - Tentações Perigosas (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/672.mkv
+#EXTINF:-1,Krampus O Lado Negro do Natal (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/637.mkv
+#EXTINF:-1,Kurt Cobain Montage of Heck (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/673.mkv
+#EXTINF:-1,Lake Eerie (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/597.mkv
+#EXTINF:-1,Landmine Goes Click (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/523.mkv
+#EXTINF:-1,Lavalantula (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/638.mkv
+#EXTINF:-1,Learning to Drive (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/560.mkv
+#EXTINF:-1,Lendas do Crime (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/647.mkv
+#EXTINF:-1,Listen to Me Marlon (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/497.mkv
+#EXTINF:-1,Macbeth (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/561.mkv
+#EXTINF:-1,Mad Max Estrada da Fúria (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/674.mkv
+#EXTINF:-1,Manson Family Vacation (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/524.mkv
+#EXTINF:-1,Max (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/675.mkv
+#EXTINF:-1,Maze Runner: Provas de Fogo (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/676.mkv
+#EXTINF:-1,Minions (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/677.mkv
+#EXTINF:-1,Misconduct (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/598.mkv
+#EXTINF:-1,Miss You Already (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/639.mkv
+#EXTINF:-1,Mission Impossible - Rogue Nation (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/678.mkv
+#EXTINF:-1,Mistress America (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/562.mkv
+#EXTINF:-1,Monster Hunt (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/512.mkv
+#EXTINF:-1,Moonwalkers (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/599.mkv
+#EXTINF:-1,Mortdecai (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/679.mkv
+#EXTINF:-1,Mundo Jurássico (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/680.mkv
+#EXTINF:-1,Mustang (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/563.mkv
+#EXTINF:-1,No Escape (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/681.mkv
+#EXTINF:-1,No Limite do Amanhã (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/564.mkv
+#EXTINF:-1,Noite em Fuga (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/682.mkv
+#EXTINF:-1,O Cadáver de Anna Fritz (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/600.mkv
+#EXTINF:-1,O Caso Spotlight (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/717.mkv
+#EXTINF:-1,O Diário de Uma Rapariga Adolescente (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/525.mkv
+#EXTINF:-1,O Estagiário (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/499.mkv
+#EXTINF:-1,O Homem Duplicado (2013)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/565.mkv
+#EXTINF:-1,O Marido Perfeito (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/500.mkv
+#EXTINF:-1,O Panda do Kung Fu 3 (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/601.mkv
+#EXTINF:-1,O Prodígio (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/566.mkv
+#EXTINF:-1,O Segredo dos Seus Olhos (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/602.mkv
+#EXTINF:-1,O Segurança do Shopping Las Vegas (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/683.mkv
+#EXTINF:-1,Oddball (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/567.mkv
+#EXTINF:-1,Old 37 (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/526.mkv
+#EXTINF:-1,Operações Especiais (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/467.mkv
+#EXTINF:-1,Orgulho e Preconceito e Guerra (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/620.mkv
+#EXTINF:-1,Os Coopers São o Máximo (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/718.mkv
+#EXTINF:-1,Os Oito Odiados (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/640.mkv
+#EXTINF:-1,Os Profissionais da Crise (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/719.mkv
+#EXTINF:-1,Pai Há Só Um! (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/641.mkv
+#EXTINF:-1,Pan (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/684.mkv
+#EXTINF:-1,Paranormal Activity The Ghost Dimension (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/685.mkv
+#EXTINF:-1,Pássaro Branco (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/527.mkv
+#EXTINF:-1,Pee-Wee s Big Holiday (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/621.mkv
+#EXTINF:-1,Pixels (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/686.mkv
+#EXTINF:-1,Point Break - Caçadores de Emoções (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/622.mkv
+#EXTINF:-1,Poltergeist (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/513.mkv
+#EXTINF:-1,Por Aqui e Por Ali (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/528.mkv
+#EXTINF:-1,Prometheus (2012)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/529.mkv
+#EXTINF:-1,Quarto (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/603.mkv
+#EXTINF:-1,Queen of the Desert (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/720.mkv
+#EXTINF:-1,Rage (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/530.mkv
+#EXTINF:-1,Regressão (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/569.mkv
+#EXTINF:-1,Remember (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/623.mkv
+#EXTINF:-1,Ride - Na Onda (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/570.mkv
+#EXTINF:-1,Rock the kasbah - Bem-vindo ao Afeganistão (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/571.mkv
+#EXTINF:-1,Ronaldo (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/648.mkv
+#EXTINF:-1,Samurai Cop 2 Deadly Vengeance (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/604.mkv
+#EXTINF:-1,San Andreas (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/687.mkv
+#EXTINF:-1,Sand Castles (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/572.mkv
+#EXTINF:-1,Só Podiam Ser Irmãs (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/642.mkv
+#EXTINF:-1,Sem Compromissos (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/605.mkv
+#EXTINF:-1,Shaandaar (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/573.mkv
+#EXTINF:-1,Shark Lake (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/688.mkv
+#EXTINF:-1,Sicário - Infiltrado (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/645.mkv
+#EXTINF:-1,Sininho e a Lenda do Monstro do Nunca (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/711.mkv
+#EXTINF:-1,Sinister 2 (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/531.mkv
+#EXTINF:-1,Southbound (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/606.mkv
+#EXTINF:-1,Southpaw (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/689.mkv
+#EXTINF:-1,Species The Awakening (2007)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/624.mkv
+#EXTINF:-1,Spectre (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/690.mkv
+#EXTINF:-1,Spy (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/691.mkv
+#EXTINF:-1,Standoff (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/721.mkv
+#EXTINF:-1,Star Wars O Despertar da Força (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/625.mkv
+#EXTINF:-1,Steve Jobs The Man in the Machine (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/649.mkv
+#EXTINF:-1,Stonewall (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/574.mkv
+#EXTINF:-1,Straight Outta Compton (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/514.mkv
+#EXTINF:-1,Strings (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/532.mkv
+#EXTINF:-1,Submerged (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/692.mkv
+#EXTINF:-1,Ted 2 (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/693.mkv
+#EXTINF:-1,Terminus (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/722.mkv
+#EXTINF:-1,The 33 (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/568.mkv
+#EXTINF:-1,The Abominable Bride (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/533.mkv
+#EXTINF:-1,The Benefactor (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/575.mkv
+#EXTINF:-1,The Boy - Segue as Regras (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/723.mkv
+#EXTINF:-1,The Confines (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/576.mkv
+#EXTINF:-1,The Pact II (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/607.mkv
+#EXTINF:-1,The Division Agent Origins (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/472.mkv
+#EXTINF:-1,The End of the Tour (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/577.mkv
+#EXTINF:-1,The Girl in the Book (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/578.mkv
+#EXTINF:-1,The Girl in the Photographs (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/363.mkv
+#EXTINF:-1,The Hoarder (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/473.mkv
+#EXTINF:-1,The Hunger Games A Revolta - Parte 1 (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/579.mkv
+#EXTINF:-1,The Hunger Games A Revolta - Parte 2 (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/580.mkv
+#EXTINF:-1,The Keeping Room (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/608.mkv
+#EXTINF:-1,The Last Rescue (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/534.mkv
+#EXTINF:-1,The Last Witch Hunter (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/644.mkv
+#EXTINF:-1,The Little Prince (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/694.mkv
+#EXTINF:-1,The Lobster (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/609.mkv
+#EXTINF:-1,The Martian (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/695.mkv
+#EXTINF:-1,The Night Before (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/633.mkv
+#EXTINF:-1,The Overnight (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/610.mkv
+#EXTINF:-1,The Peanuts Movie (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/696.mkv
+#EXTINF:-1,The Preppie Connection (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/474.mkv
+#EXTINF:-1,The Revenant (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/697.mkv
+#EXTINF:-1,The Ridiculous 6 (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/698.mkv
+#EXTINF:-1,The Survivalist (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/626.mkv
+#EXTINF:-1,The Transporter Refueled (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/699.mkv
+#EXTINF:-1,The Veil (2016)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/581.mkv
+#EXTINF:-1,The Walk (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/700.mkv
+#EXTINF:-1,Tomorrowland - Terra do Amanhã (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/701.mkv
+#EXTINF:-1,Tracers (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/702.mkv
+#EXTINF:-1,Trumbo (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/582.mkv
+#EXTINF:-1,Uma Noite Fora do Palácio (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/611.mkv
+#EXTINF:-1,Un Français (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/583.mkv
+#EXTINF:-1,Un homme parfait (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/515.mkv
+#EXTINF:-1,Upsss! Lá Se Foi a Arca... (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/703.mkv
+#EXTINF:-1,Velocidade Furiosa 7 (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/704.mkv
+#EXTINF:-1,Vendetta (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/705.mkv
+#EXTINF:-1,Verdade (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/612.mkv
+#EXTINF:-1,Very Bad Team (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/535.mkv
+#EXTINF:-1,Vice (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/706.mkv
+#EXTINF:-1,Victor Frankenstein (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/724.mkv
+#EXTINF:-1,War Room (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/502.mkv
+#EXTINF:-1,Where Hope Grows (2014)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/536.mkv
+#EXTINF:-1,Wild Card (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/707.mkv
+#EXTINF:-1,Wrong Cops (2013)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/584.mkv
+#EXTINF:-1,Yip Man 3 (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/627.mkv
+#EXTINF:-1,Yosemite (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/628.mkv
+#EXTINF:-1,Zero Tolerance (2015)
+http://iptvportugal.selfip.com:8000/movie/linhadeteste/PuXwj3vz9A/613.mkv
